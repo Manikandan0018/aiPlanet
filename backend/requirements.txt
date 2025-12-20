@@ -9,8 +9,8 @@ pypdf
 huggingface-hub
 sentence-transformers
 
-psycopg2-binary
 sqlalchemy
+psycopg2-binary
 pgvector
 
 numpy
@@ -22,3 +22,5 @@ google-generativeai
 google-genai
 
 starlette
+chromadb
+pydantic
