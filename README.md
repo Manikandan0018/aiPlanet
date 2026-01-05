@@ -1,4 +1,5 @@
 AI Workflow Builder – RAG System
+ai-planet-bay.vercel.app
 
 An end-to-end AI Workflow Builder that visually constructs and executes a Retrieval-Augmented Generation (RAG) pipeline.
 This project allows users to upload documents, build an AI workflow using drag-and-drop components, and chat with the data using an LLM.
